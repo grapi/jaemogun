@@ -6,3 +6,4 @@
 
 - release test
 - merged test
+-test
